@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\pratice"
+		},
+		{
+			"path": "..\\personlaised"
+		},
+		{
+			"path": "..\\codingninjA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"initializer_list": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
